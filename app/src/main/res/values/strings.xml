@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GitHub Events for Paiduaykanmai Test</string>
+    <string name="display_login">display_login</string>
+    <string name="type_title">Type :</string>
+    <string name="type">Type</string>
+    <string name="id_title">id</string>
+    <string name="login_title">login :</string>
+    <string name="display_login_title">display_login :</string>
+    <string name="gravatar_id_title">gravatar_id :</string>
+    <string name="repo_name_title">repo_name :</string>
+    <string name="payload_title">payload :</string>
+    <string name="created_at">created_at :</string>
+</resources>
